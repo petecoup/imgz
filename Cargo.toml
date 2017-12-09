@@ -1,0 +1,8 @@
+[package]
+name = "imgz"
+version = "0.1.0"
+authors = ["pete"]
+
+[dependencies]
+png = "0.11.0"
+
